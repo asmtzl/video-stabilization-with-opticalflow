@@ -1,0 +1,1 @@
+Video stabilization with optical flow algorithm is an image processing technique that aims to create a stable video by tracking the movement of a video frame. The Video Stabilization with Optical Flow algorithm developed during my internship is explained step by step.
